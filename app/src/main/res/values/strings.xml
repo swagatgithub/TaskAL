@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TaskAL</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="userName">UserName</string>
+    <string name="password">Password</string>
+    <string name="goToLoginScreen">Go To Login Screen</string>
+    <string name="pleaseEnterUserNameAndPassword"><![CDATA[Please Enter UserName & Password.]]></string>
+    <string name="pleaseEnterUserName">Please Enter UserName .</string>
+    <string name="pleaseEnterPassWord">Please Enter Password .</string>
+    <string name="pleaseEnterCorrectCredentials">Please Enter Correct Credentials.</string>
+    <string name="loginCredentials">LoginCredentials</string>
+    <string name="loginSuccessFul">Login Successful.</string>
+    <string name="add">Add</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">LastName</string>
+    <string name="email">Email</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="noUserToShow">No User To Show.</string>
+    <string name="pleaseEnterDetails">Please Enter All Details</string>
+    <string name="pleaseEnterFirstName">Please Enter First Name.</string>
+    <string name="pleaseEnterLastName">Please Enter Last Name.</string>
+    <string name="pleaseEnterEmail">Please Enter Email.</string>
+    <string name="logOut">LogOut</string>
+    <string name="back">Back</string>
+    <string name="temprature">Temprature</string>
+    <string name="weatherType">WeatherType</string>
+    <string name="humidity">Humidity</string>
+    <string name="windSpeed">WindSpeed</string>
+    <string name="loggedOutSuccessfully">Logged Out Successfully.</string>
+    <string name="requestFailed">Request Failed , Please try again.</string>
+</resources>
