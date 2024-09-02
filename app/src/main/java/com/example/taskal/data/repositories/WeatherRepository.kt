@@ -3,7 +3,6 @@ package com.example.taskal.data.repositories
 import android.content.Context
 import android.content.SharedPreferences
 import com.example.taskal.R
-import com.example.taskal.data.network.Current
 import com.example.taskal.data.network.WeatherApi
 import com.example.taskal.data.network.WeatherData
 import dagger.hilt.android.qualifiers.ApplicationContext

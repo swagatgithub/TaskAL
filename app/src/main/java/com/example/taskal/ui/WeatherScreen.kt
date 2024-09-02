@@ -44,12 +44,9 @@ fun WeatherScreen(weatherViewModel : WeatherViewModel = hiltViewModel() , onLogO
             {
                 is LogOutStates.Loading -> {
                     shouldShowCircularProgressIndicator.value = true
-                    println("LogOut.. Loading..")
                 }
 
                 is LogOutStates.Status ->{
-                    println("LogOut.. Staus")
-                    println("Inside LogOut Status..")
                     val logOutStatus = (logOutState as LogOutStates.Status).logOutStatus
                     if(logOutStatus)
                     {
@@ -61,7 +58,6 @@ fun WeatherScreen(weatherViewModel : WeatherViewModel = hiltViewModel() , onLogO
                 }
 
                 is LogOutStates.Empty -> {
-                    println("LogOut.. Empty..")
                 }
             }
         }
